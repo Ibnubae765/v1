@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤ+B+Y+ㅤ+Bayu+V+P+N" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+C+R+I+P+T+ㅤ+B+Y+ㅤ+ID+V+P+N" />
 </p>
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/BvsshXyz/v1/main/main.sh && chmod +x main.sh && ./main.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Ibnubae765/v1/main/main.sh && chmod +x main.sh && ./main.sh
 ```
 
 ## UPDATE SCRIPT
 ```
-wget -q https://raw.githubusercontent.com/BvsshXyz/v1/main/update.sh && chmod +x update.sh && ./update.sh
+wget -q https://raw.githubusercontent.com/Ibnubae765/v1/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ### WORK DI OS
